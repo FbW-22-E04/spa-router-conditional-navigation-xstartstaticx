@@ -37,7 +37,7 @@ h1 {
 input {
   width: 13rem;
   padding: 0.5rem;
-  color: white;
+  color: cyan;
   cursor: pointer;
   transition: 0.5s;
   font-size: 0.8rem;
@@ -59,4 +59,7 @@ input:nth-child(3):hover {
 form {
   display: flex;
   flex-direction: column;
+}
+p {
+  color: red;
 }
